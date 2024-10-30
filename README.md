@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working ethereum blockchain<br>👯 I’m looking to collaborate on Smart Contract<br>🌱 I’m currently learning Rust,React and Express<br>💬 Ask me about Solidity, Javascript<br>⚡ Fun fact Member of Fight Club
+🔭 I’m currently working on ethereum blockchain<br>👯 I’m looking to collaborate on Smart Contract<br>🌱 I’m currently learning Rust,React and Express<br>💬 Ask me about Solidity, Javascript<br>⚡ Fun fact Member of Fight Club
 
 
 ## 🌐 Socials:
