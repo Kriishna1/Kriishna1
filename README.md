@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ethereum blockchain<br>👯 I’m looking to collaborate on Smart Contract<br>🌱 I’m currently learning Rust,React and Express<br>💬 Ask me about Solidity, Javascript<br>⚡ Fun fact Member of Fight Club
+🔭Full stack MERN developer Currently exploring the Bitcoin ecosystem <br>👯  Passionate about open-source, cryptography, and decentralized systems<br>🌱  Building with Rust, Python, and diving deep into Bitcoin Script <br>💬 Always down to talk Bitcoin, Rust, and protocol design <br>⚡  Member of Fight Club
 
 
 ## 🌐 Socials:
