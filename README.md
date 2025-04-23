@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Full stack MERN developer Currently exploring the Bitcoin ecosystem <br>👯  Passionate about open-source, cryptography, and decentralized systems<br>🌱  Building with Rust, Python, and diving deep into Bitcoin Script <br>💬 Always down to talk Bitcoin, Rust, and protocol design <br>⚡  Member of Fight Club
+🔭Full stack MERN developer Currently exploring the Bitcoin ecosystem <br>👯  Passionate about open-source, cryptography, and decentralized systems<br>🌱  Building with Rust, Python, and diving deep into Bitcoin Script <br>💬 Always down to talk Bitcoin, Rust, and protocol design <br>⚡  Member of Fight Club.
 
 
 ## 🌐 Socials:
