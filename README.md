@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Full stack MERN developer with hands on experience in backend (Node.js, Express, FastAPI) and frontend (React.js, Next.js) development. <br>
-🤖 Passionate about AI & Machine Learning, with practical experience using ChatGPT & OpenAI API and building [AI-powered applications](https://github.com/Kriishna1/interview_ai). <br>
+🔭 Full stack developer with hands on experience in backend (Node.js, Express, FastAPI) & frontend (React.js, Next.js) development. <br>
+🤖 Passionate about AI & ML, with practical experience using ChatGPT & OpenAI API & building AI-powered applications <br>
 🌱 Currently exploring the intersection of AI systems, backend APIs, and cloud platforms (AWS, GCP) to build scalable solutions. <br>
 👯 Open-source contributor, always eager to collaborate on projects involving AI integration, RESTful APIs, and generative AI. <br>
 💬 Love discussing Python, JavaScript/TypeScript, AI system design, and full-stack development. <br>
