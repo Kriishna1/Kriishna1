@@ -1,11 +1,6 @@
-# 💫 About Me:
-🔭 Full stack developer with hands on experience in backend (Node.js, Express, FastAPI) & frontend (React.js, Next.js) development. <br>
-🤖 Passionate about AI & ML, with practical experience using ChatGPT & OpenAI API & building AI-powered applications <br>
-🌱 Currently exploring the intersection of AI systems, backend APIs, and cloud platforms (AWS, GCP) to build scalable solutions. <br>
-👯 Open-source contributor, always eager to collaborate on projects involving AI integration, RESTful APIs, and generative AI. <br>
-💬 Love discussing Python, JavaScript/TypeScript, AI system design, and full-stack development. <br>
-⚡ Enthusiastic learner, blending my background in decentralized systems with modern AI technologies.
-
+# Hi:
+Hey! I’m a Full-Stack Engineer passionate about architecting scalable distributed systems and integrating AI into modern web app.
+When I'm not debugging, I'm playing football ⚽.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnanand-yadav) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Krishnanand25/) 
@@ -25,8 +20,6 @@
 ### 🗂️ Version Control  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### 🤖 AI, ML & LLMs  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%2300B4AB.svg?style=for-the-badge&logoColor=white)
 
 
 
