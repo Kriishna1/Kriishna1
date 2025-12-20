@@ -36,8 +36,8 @@
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="22" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22" alt="C++"/>
 
-  <br><br>
-      <b>Web Dev:</b><br>
+ 
+  <b>Web Dev:</b><br>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="22" alt="React"/>
       <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="22" alt="Next.js"/>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="22" alt="NodeJS"/>
@@ -45,24 +45,38 @@
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="22" alt="HTML5"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="22" alt="CSS3"/>
 
-  <br><br>
-      <b>Databases:</b><br>
+  
+  <b>Databases:</b><br>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="22" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="22" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="22" alt="MySQL"/>
 
-  <br><br>
-      <b>Cloud / DevOps:</b><br>
+ 
+  <b>Cloud / DevOps:</b><br>
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" alt="AWS"/>
       <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="22" alt="GCP"/>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="22" alt="Docker"/>
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="22" alt="Vercel"/>
 
-  <br><br>
-      <b>Tools:</b><br>
+  
+  <b>Tools:</b><br>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="22" alt="Git"/>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="22" alt="GitHub"/>
-    </td>
+     
+  <h3>🚧 Currently Working On</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://github.com/user-attachments/assets/c04828a3-f0f6-46f1-abf6-a677db2553d3" width="100%" alt="Scalable Chat App" />
+        </a>
+        <p>
+          <b>Scalable Real-Time Chat App</b><br>
+          A horizontally scalable system using Redis pub/sub, Kafka, and Socket.IO in a distributed architecture.
+          <br />
+          <code>Redis</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Socket.IO</code>
+        </p>
+      </div>
+  
+   </td>
     <td valign="top" width="45%">
       <h3>📊 Most Used & Stats</h3>
       <div align="center">
@@ -74,7 +88,7 @@
       </div>
     </td>
   </tr>
-</table>>
+</table>
 
 
 <h3>📂 Featured Projects</h3>
